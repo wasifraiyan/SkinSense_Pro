@@ -1,0 +1,5 @@
+com.example.skinsensepro.test.app-core-1.6.1-0 /Users/ahsanhabib/.gradle/caches/transforms-4/85eb3c005589b22740892b97b2976792/transformed/core-1.6.1/res
+com.example.skinsensepro.test.app-androidTest-1 /Users/ahsanhabib/Library/CloudStorage/GoogleDrive-habibniloy500@gmail.com/My Drive/TRU/Fall 24/SkinSensePro/app/build/generated/res/resValues/androidTest/debug
+com.example.skinsensepro.test.app-mergeDebugAndroidTestResources-2 /Users/ahsanhabib/Library/CloudStorage/GoogleDrive-habibniloy500@gmail.com/My Drive/TRU/Fall 24/SkinSensePro/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.skinsensepro.test.app-mergeDebugAndroidTestResources-3 /Users/ahsanhabib/Library/CloudStorage/GoogleDrive-habibniloy500@gmail.com/My Drive/TRU/Fall 24/SkinSensePro/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.skinsensepro.test.app-debugAndroidTest-4 /Users/ahsanhabib/Library/CloudStorage/GoogleDrive-habibniloy500@gmail.com/My Drive/TRU/Fall 24/SkinSensePro/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

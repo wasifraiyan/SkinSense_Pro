@@ -1,0 +1,3 @@
+com.example.skinsensepro.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

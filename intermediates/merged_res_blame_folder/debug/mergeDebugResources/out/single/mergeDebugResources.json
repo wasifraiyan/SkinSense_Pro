@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_ingredient_list_item.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/ingredient_list_item.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_profile_holo.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/profile_holo.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_fragment_home.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_bodycarecatagory.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/bodycarecatagory.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/font_inter_light.ttf.flat",
+        "source": "com.example.skinsensepro.app-main-62:/font/inter_light.ttf"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/font_inter_semibold.ttf.flat",
+        "source": "com.example.skinsensepro.app-main-62:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_ingredient_item.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/ingredient_item.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_category_border.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/category_border.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_item_hero_image.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/item_hero_image.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_bottom_navigation_background.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/bottom_navigation_background.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_skincarecatagory.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/skincarecatagory.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_liked_filled.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/liked_filled.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_scanned_filled.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/scanned_filled.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_logo_loginpage.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/logo_loginpage.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_custom_input.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/custom_input.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_fragment_liked.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/fragment_liked.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_haircarecatagory.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/haircarecatagory.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_profile_filled.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/profile_filled.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_activity_main.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/font_inter_black.ttf.flat",
+        "source": "com.example.skinsensepro.app-main-62:/font/inter_black.ttf"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_profilepic.png.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/profilepic.png"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_transparent_background.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/transparent_background.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_product_grid_item.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/product_grid_item.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_splash_screen_background.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/splash_screen_background.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_activity_barcode_scanner.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/activity_barcode_scanner.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_bar_code_camera_logo.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/bar_code_camera_logo.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_makeupcatagory.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/makeupcatagory.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_scanned_holo.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/scanned_holo.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_circle_shape.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/circle_shape.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_activity_splash.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_fragment_profile.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_signup_page.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/signup_page.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_fragment_scanned.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/fragment_scanned.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_open_link.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/open_link.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_no_ripple.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/no_ripple.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_login_page.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/login_page.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/font_inter_regular.ttf.flat",
+        "source": "com.example.skinsensepro.app-main-62:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/layout_activity_product_details.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/xml_backup_rules.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_liked_holo.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/liked_holo.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_splash_screen.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.skinsensepro.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_price_background.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/price_background.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_home_filled.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/home_filled.xml"
+    },
+    {
+        "merged": "com.example.skinsensepro.app-debug-60:/drawable_home_holo.xml.flat",
+        "source": "com.example.skinsensepro.app-main-62:/drawable/home_holo.xml"
+    }
+]
